@@ -1,4 +1,4 @@
-# Lipschitz Multiscale Deep Equilibrium Models: A Theoretically Guaranteed and Accelerated Approach
+# Lipschitz Multiscale Deep Equilibrium Models: A Theoretically Guaranteed and Accelerated Approach @AISTATS2026
 Code for reproducing experiments in our paper.  
 Our experiments were based on the implementation of [MDEQ](https://github.com/locuslab/deq/tree/master/MDEQ-Vision).
 
